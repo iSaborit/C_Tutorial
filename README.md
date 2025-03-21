@@ -33,4 +33,4 @@ gcc projects.c -o project
 
 ## Authors
 
-ex. [@iSaborit](https://github.com/iSaborit);
+atm: [@iSaborit](https://github.com/iSaborit)
